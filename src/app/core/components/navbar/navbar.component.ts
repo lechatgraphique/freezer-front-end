@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
-  brand: string = '!Freezy';
+  brand: string = '!Freezer App';
 
   constructor() { }
 
